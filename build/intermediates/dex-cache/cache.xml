@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\pre-dexed\debug\classes-420bd72687dc306f2401afc36aaaf2cc2ebd8377.jar" />
+    </item>
+    <item
+        jar="C:\Users\ABID\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-c2566c8895f2a8ae5210b8078ac6668348066303.jar" />
+    </item>
+    <item
+        jar="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\pre-dexed\debug\classes-c97b4897b36d06a11cdad290d411ccea20af0915.jar" />
+    </item>
+    <item
+        jar="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\pre-dexed\debug\classes-896af08964ca1bf8acfab92943e54cb80b30b806.jar" />
+    </item>
+    <item
+        jar="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\pre-dexed\debug\classes-424a9700d428a8d9889dff12edea50fb49b9bf62.jar" />
+    </item>
+    <item
+        jar="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="D:\abid\Android\girl\GirlVsBoy(TicTacToe)\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-3c7f7ac9b7b1ac9d22b7c861c53ee9a12e21d3e6.jar" />
+    </item>
+
+</items>
